@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="221bdb48-1d43-46d1-b1d0-08973764064a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RWZPXqMnhoA3J44UML8V7ZuU0O" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549381720670" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marilia.santos\IdeaProjects\TS\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marilia.santos\IdeaProjects\TS\src\test\resources\features" />
+      <recent name="C:\Users\marilia.santos\IdeaProjects\TS\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunnerWeb">
+    <configuration name="Web" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Web" />
+      <module name="TS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Web2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Web2" />
+      <module name="TS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Cenario01 - Web - Printing Data Reservation On Discourse Website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/web.feature" />
+      <option name="GLUE" value="stepDefinitionsWeb stepDefinitionsLojas stepsDefinitionsLogin stepsDefinitionsContato stepDefinitionsWeb2" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TS" />
+      <option name="NAME_FILTER" value="^Cenario01 \- Web \- Printing Data Reservation On Discourse Website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Cenario01 \- Web \- Printing Data Reservation On Discourse Website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cenario01 - Web - Printing Data Reservation On Discourse Website" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerWeb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.RunnerWeb" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerWeb2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.RunnerWeb2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Web2" />
+      <item itemvalue="Application.Web" />
+      <item itemvalue="Cucumber java.Scenario: Cenario01 - Web - Printing Data Reservation On Discourse Website" />
+      <item itemvalue="JUnit.RunnerWeb2" />
+      <item itemvalue="JUnit.RunnerWeb" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnerWeb" />
+        <item itemvalue="JUnit.RunnerWeb2" />
+        <item itemvalue="Application.Web" />
+        <item itemvalue="Application.Web2" />
+        <item itemvalue="Cucumber java.Scenario: Cenario01 - Web - Printing Data Reservation On Discourse Website" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="221bdb48-1d43-46d1-b1d0-08973764064a" name="Default Changelist" comment="" />
+      <created>1548626096730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548626096730</updated>
+      <workItem from="1548626100474" duration="4560000" />
+      <workItem from="1548778438948" duration="4991000" />
+      <workItem from="1548848615239" duration="10271000" />
+      <workItem from="1548951204637" duration="871000" />
+      <workItem from="1549297291174" duration="956000" />
+      <workItem from="1549315559034" duration="5681000" />
+      <workItem from="1569784789709" duration="3666000" />
+      <workItem from="1569860231567" duration="847000" />
+      <workItem from="1569862657572" duration="662000" />
+      <workItem from="1570480449307" duration="3125000" />
+      <workItem from="1571051327723" duration="739000" />
+      <workItem from="1580387563755" duration="2690000" />
+      <workItem from="1583782911370" duration="1223000" />
+      <workItem from="1583789851447" duration="10293000" />
+      <workItem from="1583800303402" duration="9971000" />
+      <workItem from="1583841678428" duration="9132000" />
+      <workItem from="1583891238700" duration="5143000" />
+      <workItem from="1583896715043" duration="16286000" />
+      <workItem from="1583970399728" duration="27829000" />
+      <workItem from="1584031789656" duration="13949000" />
+      <workItem from="1584053401605" duration="9208000" />
+      <workItem from="1584096873308" duration="38613000" />
+      <workItem from="1584298772891" duration="1035000" />
+      <workItem from="1584301428782" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
